@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @itFlakky
 - 👀 I’m interested in программирование на c++ и информационной безопасностью
 - 🌱 I’m currently learning в школе в 9 класс
-- 💞️ I’m looking to collaborate on  интересными проектами в качестве c++ developer
-- 📫 How to reach me  https://vk.com/the.saasha
+- 💞️ I’m looking to collaborate on  интересными проектами в качестве c# developer
+- 
+- 📫 How to reach me  https://vk.com/kutukovsasha
